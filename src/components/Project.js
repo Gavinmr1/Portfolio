@@ -6,6 +6,7 @@ export default function Project() {
     useEffect(() => {
         sanityClient.fetch(`*[_type == "project"]{
             DataTransferItemList,
+            title,
             date,
             place,
             description,
