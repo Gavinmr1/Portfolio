@@ -3,6 +3,8 @@
   ## Description 
   
   Using React, Sanity, and Netlify I have made a portfolio page about myself and my work. This site contains a blog page with my latest information and posts, an about page with a description of me and my goals and interests, and a project page with examples of some of my best work. On the project page there are links to the repository and a brief description of the project. Attached at the navbar are four links to my LinkedIn, Github, and facebook.
+  
+  https://gavinportfolio.netlify.app/
 
   ![Portfolio screenshot1](/assets/Screenshot1.png?raw=true "Screenshot1")
   ![Portfolio screenshot2](/assets/Screenshot2.png?raw=true "Screenshot2")
